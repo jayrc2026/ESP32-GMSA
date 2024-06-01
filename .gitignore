@@ -25,5 +25,7 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
+
+# Files
+#Extra_Resourses/
+*.kicad_pcb_Broken

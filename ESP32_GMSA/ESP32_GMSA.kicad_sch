@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cbdd06e5-113c-4fcc-ba44-37913b903301)
+
+  (paper "A4")
+
+  (title_block
+    (title "UJ")
+    (date "2024-05-30")
+    (rev "V0")
+    (company "Water level monitering")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
